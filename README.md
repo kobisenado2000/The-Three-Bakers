@@ -59,3 +59,14 @@
 - Flask
 - pyodbc
 - SQL Server
+
+  ![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/a572e92a-ac83-4853-bdfb-8cf391999c4e)
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/ec721b7b-1af7-4be3-bca9-285220803efc)
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/d572ee25-b32d-4f3d-8766-635faf8ac562)
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/3f17ae7f-8505-45e4-929f-867ceb21440c)
+
+בנוסף לכך ביצענו פונקציה ששולחת מייל לשם המשתמש הרשום אשר ביצע את ההזמנה
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/ae488afe-4021-4b00-9150-ba1c5392fe51)
+
+
+
