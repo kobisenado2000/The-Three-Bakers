@@ -6,23 +6,28 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 <body>
-    <div class="navbar">
-        <a href="{{ url_for('login') }}">כניסה</a>
-        <a href="{{ url_for('register') }}">הרשמה</a>
-        <a href="{{ url_for('menu') }}">תפריט</a>
-        <a href="{{ url_for('nihul') }}">ניהול</a>
-        <a href="{{ url_for('review') }}"> חוות דעת</a>
 
+    <div class="navbar"> 
+        <a href="{{ url_for('login') }}">Login</a>
+        <a href="{{ url_for('register') }}">Register</a>
+        <a href="{{ url_for('menu') }}">Menu</a>
+        <a href="{{ url_for('nihul') }}">buisness</a>
+        <a href="{{ url_for('review') }}">Review</a>
 
-        <button onclick="toggleCart()" style="margin-right: auto;">הסל שלי</button>
+        <button onclick="toggleCart()" style="margin-right: auto;">My Cart</button>
+
+        <div class="logo-container">
+            <img src="https://bcassetcdn.com/social/zpt3q5clhr/preview.png" alt="לוגו">
+        </div>
+
     </div>
     <div class="container">
         {% block content %}{% endblock %}
     </div>
     
-    <!-- Sidebar for the cart -->
+
     <div id="cart-sidebar" class="cart-sidebar">
-        <h2>הסל שלי</h2>
+        <h2>My Cart</h2>
         <div id="cart-items"></div>
         <div class="cart-total">
             <h3>סה"כ: <span id="cart-total">₪0.00</span></h3>
