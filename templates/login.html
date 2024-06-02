@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}כניסה{% endblock %}
+{% block content %}
+<h1>ברוכים הבאים למאפיית שלושת האופים</h1>
+<p>המאפייה שלנו מציעה מגוון רחב של לחמים ומאפים איכותיים</p>
+<p>בעלים ושותפים: קובי סנאדו, ניב בן משה, תומר מזרחי</p>
+<p>מנכ"ל: יוסי זגורי</p>
+<p>Since 2024</p>
+<h1>כניסה</h1>
+<form method="POST" action="{{ url_for('login') }}">
+    <label for="Username">שם משתמש</label>
+    <input type="text" id="Username" name="Username" required>
+    <label for="password">סיסמה</label>
+    <input type="password" id="Passwords" name="Passwords" required>
+    <button type="submit" class="button">כניסה</button>
+    
+</form>
+{% endblock %}

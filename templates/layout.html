@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}שלושת האופים{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    
+    <style>
+        body {
+            background-image: url('{{ url_for('static', filename='images/bread-comparison.jpg') }}');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="{{ url_for('index') }}">דף הבית</a>
+        <a href="{{ url_for('menu') }}">תפריט</a>
+        <a href="{{ url_for('nihul') }}">ניהול</a>
+        <a href="{{ url_for('review') }}"> חוות דעת</a>
+        <a href="/cart">סל הקניות שלי</a>     
+        
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}" defer></script>
+</body>
+</html>

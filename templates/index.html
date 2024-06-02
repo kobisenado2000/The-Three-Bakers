@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block title %}דף הבית - שלושת האופים{% endblock %}
+
+{% block content %}
+<h1>ברוכים הבאים לשלושת האופים</h1>
+<a href="{{ url_for('login') }}" class="button">התחבר</a>
+<a href="{{ url_for('register') }}" class="button">הרשם</a>
+<a href="{{ url_for('menu') }}" class="button">תפריט</a>
+<a href="{{ url_for('review') }}"> חוות דעת</a>
+
+{% endblock %}
