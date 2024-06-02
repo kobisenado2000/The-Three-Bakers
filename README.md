@@ -1,4 +1,4 @@
-# The-Three-Bakers
+![תמונה של WhatsApp‏ 2024-06-02 בשעה 18 38 42_f5c44582](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/c5165c48-78b7-43d0-8e33-8480c47b4c75)# The-Three-Bakers
 הפרויקט הוא אתר אינטרנט לבית מאפה המאפשר ללקוחות להזמין מגוון מוצרי מאפה מתפריט מקוון, ולצפות בחוות דעת של לקוחות אחרים. בנוסף, האתר מאפשר למנהלי המאפייה לנהל את ההזמנות, לסגור אותן כשהן מוכנות, ולעדכן את התפריט עם מוצרים חדשים. המערכת מבוססת על מודל MVC כדי להפריד בין הלוגיקה העסקית, התצוגה והבקרה.
 
 סוגי משתמשים:
@@ -64,11 +64,14 @@
 ![image](![תמונה של WhatsApp‏ 2024-06-02 בשעה 18 35 58_090d7dd2](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/213d2955-3491-4b15-a41f-55b2cea0e82c)
 )
 **Menu:**
-![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/ec721b7b-1af7-4be3-bca9-285220803efc)
+![image](![תמונה של WhatsApp‏ 2024-06-02 בשעה 18 38 26_d6ab0b76](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/149f2a87-1725-433b-8c05-981bdf639436)
+)
 **Manager Page:**
-![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/d572ee25-b32d-4f3d-8766-635faf8ac562)
+![image](![תמונה של WhatsApp‏ 2024-06-02 בשעה 18 38 42_f5c44582](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/33bf04a6-b24b-44f6-8012-36aa2b0e7f78)
+)
 **Review:**
-![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/3f17ae7f-8505-45e4-929f-867ceb21440c)
+![image](![תמונה של WhatsApp‏ 2024-06-02 בשעה 18 38 56_27edba73](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/ef4da9f2-16a4-4e29-8104-2047cfceaae6)
+)
 **Auto Email:**
 ![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/ae488afe-4021-4b00-9150-ba1c5392fe51)
 
