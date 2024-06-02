@@ -61,19 +61,15 @@ The-Three-Bakers
 - SQL Server
 
 **Login:**
-[תמונה של WhatsApp‏ 2024-06-02 בשעה 18 35 58_090d7dd2](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/213d2955-3491-4b15-a41f-55b2cea0e82c)
-
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/ce8e705e-05b4-40d3-96ed-8c54fbe6d0ef)
 **Menu:**
-[תמונה של WhatsApp‏ 2024-06-02 בשעה 18 38 26_d6ab0b76](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/149f2a87-1725-433b-8c05-981bdf639436)
-)
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/bc229004-04a8-4bab-8bee-029034fe1c24)
 **Manager Page:**
-[תמונה של WhatsApp‏ 2024-06-02 בשעה 18 38 42_f5c44582](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/33bf04a6-b24b-44f6-8012-36aa2b0e7f78)
-)
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/d71a21b8-3009-4ed4-be12-92356d96e14d)
 **Review:**
-[תמונה של WhatsApp‏ 2024-06-02 בשעה 18 38 56_27edba73](https://github.com/kobisenado2000/The-Three-Bakers/assets/169029225/ef4da9f2-16a4-4e29-8104-2047cfceaae6)
-)
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/78f4011d-1fb7-45b3-8a95-98ac06733a4a)
 **Auto Email:**
-(https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/ae488afe-4021-4b00-9150-ba1c5392fe51)
+![image](https://github.com/kobisenado2000/The-Three-Bakers/assets/170872792/bc9d8e40-53e3-4b28-b3e0-d5d20d529786)
 
 
 
